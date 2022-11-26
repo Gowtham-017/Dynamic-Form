@@ -1,0 +1,66 @@
+.container
+{
+    height: 100%;
+    width:55%;
+    background-color: rgb(247, 241, 241);
+    /* background-image: linear-gradient(#ff8a00, #e52e71); */
+    background-size: cover;
+    margin-left: 350px;
+    padding-top: 10px;
+    border-radius: 10px;
+    border:10px solid white;
+    padding-bottom: 20px;
+    color:rgb(74, 69, 63);
+    margin-top: 100px;
+    
+
+}
+body{
+    background-color: black;
+}
+.button
+{
+     
+      padding: 0.6em 2em;
+      border: none;
+      outline: none;
+      font-style: oblique;
+      font-size: medium;
+      color: rgb(253, 251, 251);
+      background: rgb(175, 23, 23);
+      cursor: pointer;
+      position: relative;
+      z-index: 0;
+      border-radius: 10px;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+}
+    
+   
+.box
+{
+    border-radius: 5px;
+    border-style:outset;
+    border:5px yellow;
+    height: 30px;
+    position:static;
+    
+    
+}
+/* .hide
+{
+    display:none;
+}
+.hide1:hover + .hide
+{
+    display: block;
+    
+ 
+} */
+.label
+{
+  color:red;
+  
+}
+
